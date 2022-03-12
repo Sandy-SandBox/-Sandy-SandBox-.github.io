@@ -133,7 +133,7 @@
   top: 0;
   left: 0;
   z-index: 999;
-  background-image: linear-gradient(rgba(var(--clr-bg),0.5),rgba(var(--clr-bg),0.5)),url('../images/nav-bg.jpg');
+  background-image: linear-gradient(rgba(var(--clr-bg),0.5),rgba(var(--clr-bg),0.5)),url('nav-bg.jpg');
   background-position: center;
   background-size: cover;
   transition: all 300ms;
@@ -428,7 +428,7 @@
     height: 30rem;
     /*
     background-color: rgb(var(--clr-bg));
-    background-image: url('../images/hero-img1.jpg');
+    background-image: url('hero-img1.jpg');
     background-size: cover;
     background-position: top top;
     */
@@ -708,7 +708,7 @@ border-radius: 5px;
 
 .footer {
   padding: 5rem 0;
-  background-image: linear-gradient(rgba(var(--clr-bg),0.5),rgba(var(--clr-bg),0.5)),url('../images/footer-bg.jpg');
+  background-image: linear-gradient(rgba(var(--clr-bg),0.5),rgba(var(--clr-bg),0.5)),url('footer-bg.jpg');
   background-size: cover;
   background-position: top center;
 }
