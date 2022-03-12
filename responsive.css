@@ -95,7 +95,7 @@
     }
   }
   .container {
-    width: min(85rem,90%);
+    width: min(110rem,90%);
   }
   .place-wrap {
     grid-template-columns: repeat(3,1fr);
